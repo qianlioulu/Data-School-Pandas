@@ -12,7 +12,7 @@
 
 
 ## **Code**
-The [IPython/Jupyter Notebook]|link ongoing | contains commented code and resources links from each video.
+The [Python/Jupyter Notebook]| ongoing | contains commented code and resources links from each video.
 
 
 ## **About The Series**
@@ -65,7 +65,7 @@ Filename | Description | Raw File | Original Source | Other
 [u.user](data/u.user) | Demographic information about MovieLens users | [bit.ly/movieusers](http://bit.ly/movieusers) | [GroupLens](http://grouplens.org/datasets/movielens/100k/) | [Data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt)
 [ufo.csv](data/ufo.csv) | Reports of UFO sightings from 1930-2000 | [bit.ly/uforeports](http://bit.ly/uforeports) | [National UFO Reporting Center](http://www.nuforc.org/webreports.html) | [Web scraping script](https://github.com/josiahdavis/josiahdavis.github.io/blob/master/supporting%20material/get_ufo_data.py)
 
-!-- CONTACT -->
+<!-- CONTACT -->
 
 ## **Contact**
 
