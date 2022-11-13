@@ -1,8 +1,8 @@
  <p align="center">
  </a>
- <h1 align="center">Python pandas Q&A video series</h1>
+ <h1 align="center">Python Pandas Q&A Video Series</h1>
  <p align="center">
-  Easier Data Analysis in Python With Pandas
+  Easier Data Analysis in Python with Pandas
   <br />
   <<a href=https://github.com/qianlioulu/Data-School-Pandas-Tutorial.git>Explore the repository»</strong></a>
   <br />
