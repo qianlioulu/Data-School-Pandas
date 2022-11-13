@@ -1,8 +1,8 @@
  <p align="center">
  </a>
- <h1 align="center">IBM Data Engineering Professional Certificate</h1>
+ <h1 align="center">Python pandas Q&A video series</h1>
  <p align="center">
-  IBM Professional Certificate
+  Easier Data Analysis in Python With Pandas
   <br />
   <<a href=https://github.com/qianlioulu/Data-School-Pandas-Tutorial.git>Explore the repository»</strong></a>
   <br />
