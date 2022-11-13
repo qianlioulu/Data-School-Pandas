@@ -1,10 +1,17 @@
+ <p align="center">
+ </a>
+ <h1 align="center">IBM Data Engineering Professional Certificate</h1>
+ <p align="center">
+  IBM Professional Certificate
   <br />
-  <a href=https://github.com/qianlioulu/Data-School-Pandas-Tutorial.git>Explore the repository»</strong></a>
+  <<a href=https://github.com/qianlioulu/Data-School-Pandas-Tutorial.git>Explore the repository»</strong></a>
   <br />
   <br />
  </p>
 
 </p>
+
+ 
 
 > This introduction to pandas is derived from Data School's [Easier data analysis in Python with pandas](http://www.dataschool.io/easier-data-analysis-with-pandas/)(30 videos, 7 hours) with my own notes and code.
 
