@@ -64,3 +64,13 @@ Filename | Description | Raw File | Original Source | Other
 [titanic_train.csv](data/titanic_train.csv) | Training set from Kaggle's Titanic competition | [bit.ly/kaggletrain](http://bit.ly/kaggletrain) | [Kaggle](https://www.kaggle.com/c/titanic) | [Data dictionary](https://www.kaggle.com/c/titanic/data)
 [u.user](data/u.user) | Demographic information about MovieLens users | [bit.ly/movieusers](http://bit.ly/movieusers) | [GroupLens](http://grouplens.org/datasets/movielens/100k/) | [Data dictionary](http://files.grouplens.org/datasets/movielens/ml-100k-README.txt)
 [ufo.csv](data/ufo.csv) | Reports of UFO sightings from 1930-2000 | [bit.ly/uforeports](http://bit.ly/uforeports) | [National UFO Reporting Center](http://www.nuforc.org/webreports.html) | [Web scraping script](https://github.com/josiahdavis/josiahdavis.github.io/blob/master/supporting%20material/get_ufo_data.py)
+
+!-- CONTACT -->
+
+## **Contact**
+
+Li Qian - qianli.oulu@gmail.com
+
+Project Link: [https://github.com/qianlioulu/Data-School-Pandas-Tutorial.git](https://github.com/qianlioulu/Data-School-Pandas-Tutorial)
+
+
